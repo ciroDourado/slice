@@ -50,6 +50,7 @@ On the other hand, if it matches, a newly allocated string is returned back with
 ## 3. Contribuing
 
 If you want to leave a comment, suggest an update (or anything else), mail me: `ciro dot brz at gmail dot com `.
+
 Btw, I'm brazilian; my deepest apologies if I wrote something wrong, or mispelled something.
 
 **[Back into sections](https://github.com/ciroDourado/slice#sections)** 
