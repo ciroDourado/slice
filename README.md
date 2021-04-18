@@ -27,11 +27,11 @@ Execute with (if you are in a Windows OS, use a backslash instead):
 
 ## 2. How to use it
 
-| Function      | Parameter                                 | Return                      |
-|---------------|-------------------------------------------|-----------------------------| 
-| slice         | Number of bytes to be read; source String | Chars read                  |
-| slice_or_copy | Number of bytes to be read; source String | Chars read or copied String |
-| copy          | String to be copied                       | Copied String               |
+| Function      | Parameter                                 | Return                                  |
+|---------------|-------------------------------------------|-----------------------------------------| 
+| slice         | Number of bytes to be read; source String | Chars read or source String reference   |
+| slice_or_copy | Number of bytes to be read; source String | Chars read or copied String from source |
+| copy          | String to be copied                       | Copied String                           |
 
 If you want to take an example, check the code inside test/, at main.c.
 
